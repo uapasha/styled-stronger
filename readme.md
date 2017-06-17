@@ -50,7 +50,7 @@ const enhancedStyles = styledStronger(timesStyledClassIsApplied)`
 `;
 
 
-const ButtonEnhancedLiteral = styled.button(...enhancedStyles);
+const ButtonEnhancedLiteral = styled.button(enhancedStyles);
 
 
 ```
