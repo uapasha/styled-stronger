@@ -1,24 +1,26 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`enhanceStyled handles amplifier of 0 1`] = `
-.eVrURI {
+.ixNkzK {
   background-color: #fff;
   float: initial;
+  font-size: 12px;
 }
 
 <p
-  className="sc-gzVnrw eVrURI"
+  className="sc-gzVnrw ixNkzK"
 />
 `;
 
 exports[`enhanceStyled handles amplifier of 1 1`] = `
-.cWeeKZ {
+.feubwF {
   background-color: #fff;
   float: initial;
+  font-size: 12px;
 }
 
 <p
-  className="sc-bZQynM cWeeKZ"
+  className="sc-bZQynM feubwF"
 />
 `;
 
@@ -26,18 +28,19 @@ exports[`enhanceStyled handles amplifier of 100 1`] = `
 
 
 <p
-  className="sc-htoDjs iQEhtN"
+  className="sc-htoDjs icXvAP"
 />
 `;
 
 exports[`enhanceStyled handles no amplifier 1`] = `
-.hWiwCT {
+.gsSXuA {
   background-color: #fff;
   float: right;
+  font-size: 12px;
 }
 
 <p
-  className="sc-EHOje hWiwCT"
+  className="sc-EHOje gsSXuA"
 />
 `;
 
@@ -45,7 +48,7 @@ exports[`stronger handles 5 amplifier and no prop passed 1`] = `
 
 
 <button
-  className="sc-ifAKCX bMIIyb"
+  className="sc-ifAKCX jtQzFX"
 />
 `;
 
@@ -53,39 +56,42 @@ exports[`stronger handles 20 amplifier 1`] = `
 
 
 <button
-  className="sc-bxivhb brGYPR"
+  className="sc-bxivhb hjHcYL"
 />
 `;
 
 exports[`stronger handles amplified once 1`] = `
-.kKzKqT {
+.eSgojR {
   background-color: #fff;
   float: left;
+  font-size: 12px;
 }
 
 <button
-  className="sc-htpNat kKzKqT"
+  className="sc-htpNat eSgojR"
 />
 `;
 
 exports[`stronger handles no amplifier 1`] = `
-.bIbQZa {
+.gtlzod {
   background-color: #fff;
   float: ;
+  font-size: 12px;
 }
 
 <button
-  className="sc-bdVaJa bIbQZa"
+  className="sc-bdVaJa gtlzod"
 />
 `;
 
 exports[`stronger handles string amplifier 1`] = `
-.gSyDdM {
+.kCSSUt {
   background-color: #fff;
   float: ;
+  font-size: 12px;
 }
 
 <button
-  className="sc-bwzfXH gSyDdM"
+  className="sc-bwzfXH kCSSUt"
 />
 `;
